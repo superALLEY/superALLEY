@@ -1,7 +1,7 @@
 # 👋 Hello, ALLEY is here
 
 <p align="center">
-  <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="800" height="400"/>
+  <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="400" height="200"/>
 </p>
 
 I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer** with a strong interest in **Security**. I love building innovative solutions that prioritize security and efficiency. I enjoy working with a variety of programming languages, and I'm always eager to learn and explore new technologies.
@@ -18,6 +18,7 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -26,14 +27,28 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7F5AB6.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=superALLEY&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=superALLEY&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superALLEY&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=superALLEY&theme=radical)
+
+## 📊 Additional Stats
+
+![Wakatime](https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg?style=for-the-badge&logo=watakime)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=superALLEY&theme=radical)
 
 ---
 
