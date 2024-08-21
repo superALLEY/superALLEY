@@ -45,10 +45,6 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superALLEY&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=superALLEY&theme=radical)
 
-## 📊 Additional Stats
-
-![GitHub Contributions](https://github-contribs.cyclic.app/?username=superALLEY)
-
 ---
 
 ## 🌟 Featured Projects
