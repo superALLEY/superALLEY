@@ -1,7 +1,7 @@
 # 👋 Hello, ALLEY is here
 
 <p align="center">
-  <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="800" height="400"/>
+  <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="auto" height="auto"/>
 </p>
 
 I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer** with a strong interest in **Security**. I love building innovative solutions that prioritize security and efficiency. I enjoy working with a variety of programming languages, and I'm always eager to learn and explore new technologies.
