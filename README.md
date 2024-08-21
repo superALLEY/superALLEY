@@ -47,7 +47,6 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 
 ## 📊 Additional Stats
 
-![Wakatime](https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg?style=for-the-badge&logo=watakime)
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=superALLEY&theme=radical)
 
 ---
