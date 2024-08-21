@@ -1,4 +1,4 @@
-# 👋 Hello, ALLEY is here
+# 👋 Hello, I'm ALLEY is here
 
 <p align="center">
   <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="auto" height="auto"/>
@@ -45,24 +45,48 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superALLEY&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=superALLEY&theme=radical)
 
+## 📊 Additional Stats
 
+![GitHub Contributions](https://github-contribs.cyclic.app/?username=superALLEY)
+
+---
 
 ## 🌟 Featured Projects
 
-### 🔐 Encryption & Decryption Project
-- **Focus**: Secure text encryption as part of file structure repository.
+### 📚 Library Management System
+- **Description**: A simple Library Management System implemented in C using linked lists to manage books and perform various operations.
 - **Languages**: C
-- **[View Project](https://github.com/superALLEY/encryption-decryption)**
+- **[View Project](https://github.com/superALLEY/LibraryManagement)**
 
-### 🏥 Hospital Management System
-- **Focus**: Managing hospital operations.
-- **Languages**: C#
-- **[View Project](https://github.com/superALLEY/hospital-management)**
+### 🎓 University Management System
+- **Description**: A Java-based application designed to manage university administrative tasks, including modules for students, courses, and faculty.
+- **Languages**: Java
+- **[View Project](https://github.com/superALLEY/UniversityManagement)**
 
-### 📐 Taylor Series & Matrix Product
-- **Focus**: Mathematical computation and problem-solving.
+### 🤖 Discord Bot
+- **Description**: A simple Discord bot built using Python and the `discord.py` library. It can perform tasks like responding to commands and managing channels.
+- **Languages**: Python
+- **[View Project](https://github.com/superALLEY/DiscordBot)**
+
+### 🍽️ Restaurant App
+- **Description**: A Windows Forms application developed in C# for managing restaurant orders with a graphical interface for menu selection and order processing.
 - **Languages**: C#
-- **[View Project](https://github.com/superALLEY/taylor-matrix)**
+- **[View Project](https://github.com/superALLEY/RestaurantApp)**
+
+### 🔐 Encryption & Decryption Utility
+- **Description**: A tool for securely encrypting and decrypting text or files using strong cryptographic algorithms.
+- **Languages**: HTML
+- **[View Project](https://github.com/superALLEY/Encryption-Decryption)**
+
+### 🔒 Password Generator
+- **Description**: A tool for creating strong, random passwords with customizable options such as length and character types.
+- **Languages**: JavaScript
+- **[View Project](https://github.com/superALLEY/PasswordGenerator)**
+
+### 🧮 Calculator
+- **Description**: A web-based calculator for performing basic arithmetic operations, built with HTML, CSS, and JavaScript.
+- **Languages**: JavaScript
+- **[View Project](https://github.com/superALLEY/Calculator)**
 
 ---
 
