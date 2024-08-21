@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ALLEY is here
+# 👋 Hello, ALLEY is here
 
 <p align="center">
   <img src="https://github.com/superALLEY/superGIF/raw/main/superALLEY.gif" alt="Super GIF" width="auto" height="auto"/>
