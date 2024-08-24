@@ -72,7 +72,7 @@ I'm a passionate **Computer Science Engineer**, **Programmer**, and **Developer*
 ### 🔐 Encryption & Decryption Utility
 - **Description**: A tool for securely encrypting and decrypting text or files using strong cryptographic algorithms.
 - **Languages**: HTML
-- **[View Project](https://github.com/superALLEY/Encryption-Decryption)**
+- **[View Project](https://github.com/superALLEY/-Encryption-Decryption)**
 
 ### 🔒 Password Generator
 - **Description**: A tool for creating strong, random passwords with customizable options such as length and character types.
